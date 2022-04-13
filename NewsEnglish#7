@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+#EXTINF:-1,BBC World News 
+http://iptv.tvfix.org/hls/tracks-v3a1/mono.m3u8
+#EXTINF:-1,NBC News
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_3_1896000.m3u8
+#EXTINF:-1,CBS News HD
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1,Bloomberg
+https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/48bf57ec-d72f-4b62-b597-cc24540b1f02:GRQ/variant/b490b7b45fd7d32bd239bb119e068765/bandwidth/1200000.m3u8
+#EXTINF:-1,DW 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8

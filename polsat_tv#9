@@ -1,24 +1,19 @@
 #EXTM3U
 #EXTINF:0,4FUN TV
 http://hls.redefine.pl/894619ED/1579/0/hls576/masterlist.m3u8
-
 #EXTINF:0,4FUN DANCE
 http://hls.redefine.pl/99520853/1576/0/hls576/masterlist.m3u8
-
 #EXTINF:0,Polsat Play HD
 http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8
-
 #EXTINF:0,Polsat Cafe HD
 http://hls.redefine.pl/66C13FD2/11441/0/hls720/masterlist.m3u8
-
+#EXTINF:0,Polsat Cafe
+http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
 #EXTINF:0,POLSAT NEWS 2 HD
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
-
 #EXTINF:0,Polsat Viasat Nature
 http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8
-
 #EXTINF:0,Polsat Viasat Explore HD
 http://hls.redefine.pl/00643E2B/4196/0/hls720/masterlist.m3u8
-
 #EXTINF:0,Polsat Viasat History HD
 http://hls.redefine.pl/C1F25A0A/4194/0/hls720/masterlist.m3u8

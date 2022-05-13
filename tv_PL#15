@@ -27,3 +27,5 @@ http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/chunklist_w939969324.m3u8
 http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
 #EXTINF:-1,TV Trwam
 https://trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam.m3u8
+#EXTINF:-1,TVT
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
